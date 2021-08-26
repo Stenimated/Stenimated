@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Stenimated
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning lua, python, js/nodejs
+- 📫 How to reach me Discord: Stefan#1234/Twitter: @Stenimated
